@@ -52,10 +52,10 @@ Episode build: `EP01 Build A`
 | Ordem | Grupo | Entregável | Status inicial |
 |---|---|---|---|
 | 1 | References | personagens, cozinha, props | READY |
-| 2 | Keyframes | SH001, SH003, SH005, SH008, SH009 | TODO |
-| 3 | Coverage stills | demais start/end frames | TODO |
-| 4 | Motion | 9 takes de vídeo | TODO |
-| 5 | Audio | 6 clips de voz + stems | TODO |
+| 2 | Keyframes | SH001, SH003, SH005, SH008, SH009 | LOCKED / MOSTLY LOCKED |
+| 3 | Coverage stills | demais start/end frames | LOCKED WITH 1 HOLD |
+| 4 | Motion | 9 takes de vídeo | READY FOR PREP |
+| 5 | Audio | 6 clips de voz + stems | REVIEW |
 | 6 | Edit | assembly cut | TODO |
 | 7 | Master | review export + locked master | TODO |
 
@@ -83,12 +83,12 @@ Episode build: `EP01 Build A`
 
 | Ordem | Asset ID | Shot | Entregável | Status | Gate | Observação |
 |---|---|---|---|---|---|---|
-| 1 | KF_SH001_START | SH001 | dossiê fechado / macro label | REVIEW | B | gerado V001 |
-| 2 | KF_SH001_END | SH001 | dossiê aberto | REVIEW | B | gerado V001 |
-| 3 | KF_SH003_END | SH003 | Tsuki + tigela vazia | REVIEW | B | gerado V001 |
-| 4 | KF_SH005_START | SH005 | two-shot Tsuki vs Simba | REVIEW | B | V002 preferido |
-| 5 | KF_SH008_START | SH008 | vigília ao entardecer | REVIEW | B | gerado V001 |
-| 6 | KF_SH009_END | SH009 | carimbo final | REVIEW | B | gerado V001 |
+| 1 | KF_SH001_START | SH001 | dossiê fechado / macro label | LOCKED | B | V001 travado |
+| 2 | KF_SH001_END | SH001 | dossiê aberto | LOCKED | B | V001 travado |
+| 3 | KF_SH003_END | SH003 | Tsuki + tigela vazia | LOCKED | B | V002 travado |
+| 4 | KF_SH005_START | SH005 | two-shot Tsuki vs Simba | LOCKED | B | V002 travado |
+| 5 | KF_SH008_START | SH008 | vigília ao entardecer | LOCKED | B | V001 travado |
+| 6 | KF_SH009_END | SH009 | carimbo final | LOCKED | B | V001 travado |
 
 ---
 
@@ -96,15 +96,15 @@ Episode build: `EP01 Build A`
 
 | Shot | Still assets | Video asset | Audio assets | Status inicial |
 |---|---|---|---|---|
-| SH001 | START + END | TAKE01 | SFX_FOLDER + MUS_CUE_01 | TODO |
-| SH002 | END principal | TAKE01 | VO_TSUKI_01A + ROOM_01 | TODO |
-| SH003 | START + END | TAKE01 | VO_TSUKI_01B + FOLEY_SNIFF | TODO |
-| SH004 | START + END | TAKE01 | VO_TSUKI_02 + ROOM_QUIET | REVIEW |
-| SH005 | START + END | TAKE01 | VO_TSUKI_03A + SILENCE_HOLD_01 | REVIEW |
-| SH006 | START + END | TAKE01 | VO_TSUKI_03B + VO_SIMBA_01 | REVIEW |
-| SH007 | START + END | TAKE01 | VO_SIMBA_02 + MUS_CUE_02 | REVIEW |
-| SH008 | START + END | TAKE01 | VO_TSUKI_04 + ROOM_DUSK | REVIEW |
-| SH009 | START + END | TAKE01 | SFX_FOLDER_CLOSE + MUS_CUE_03 | REVIEW |
+| SH001 | START + END | TAKE01 | SFX_FOLDER + MUS_CUE_01 | READY FOR MOTION |
+| SH002 | END principal | TAKE01 | VO_TSUKI_01A + ROOM_01 | READY FOR MOTION |
+| SH003 | START + END | TAKE01 | VO_TSUKI_01B + FOLEY_SNIFF | READY WITH START HOLD |
+| SH004 | START + END | TAKE01 | VO_TSUKI_02 + ROOM_QUIET | READY FOR MOTION |
+| SH005 | START + END | TAKE01 | VO_TSUKI_03A + SILENCE_HOLD_01 | READY FOR MOTION |
+| SH006 | START + END | TAKE01 | VO_TSUKI_03B + VO_SIMBA_01 | READY FOR MOTION |
+| SH007 | START + END | TAKE01 | VO_SIMBA_02 + MUS_CUE_02 | READY FOR MOTION |
+| SH008 | START + END | TAKE01 | VO_TSUKI_04 + ROOM_DUSK | READY FOR MOTION |
+| SH009 | START + END | TAKE01 | SFX_FOLDER_CLOSE + MUS_CUE_03 | READY FOR MOTION |
 
 ---
 
