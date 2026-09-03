@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temp / local exports
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Generated production outputs stay local by default
+outputs/audio/*
+outputs/renders/*
+!outputs/audio/.gitkeep
+!outputs/renders/.gitkeep
+!outputs/README.md
+
+# Final delivery masters
+outputs/finals/

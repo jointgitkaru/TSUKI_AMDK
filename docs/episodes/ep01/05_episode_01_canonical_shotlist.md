@@ -16,7 +16,7 @@ Canonical item note: the missing object is a **dehydrated meat dog biscuit** (`@
 ```
 TYPE:                EWS (Extreme Wide Shot)
 CLASSIFICATION:      [KEYFRAME] — candidate START_FRAME for Episode 01
-LOCATION_REFERENCE:  WEST (TSUKI_AMDK_KITCHEN_Oeste.png — Work counter, sink, cabinets)
+LOCATION_REFERENCE:  WEST (assets/references/locations/TSUKI_AMDK_KITCHEN_Oeste.png — Work counter, sink, cabinets)
 CHARACTER_REFERENCE: Tsuki (implied investigative POV, not visible in frame)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       ~20cm from floor
@@ -66,8 +66,8 @@ No text, no people, no visible modern cinematic effects, no illustration, no CGI
 ```
 TYPE:                MS (Medium Shot)
 CLASSIFICATION:      [KEYFRAME]
-LOCATION_REFERENCE:  WEST (TSUKI_AMDK_KITCHEN_Oeste.png)
-CHARACTER_REFERENCE: Tsuki (TSUKI_AMDK_CHAR_TSUKI_MASTER_V001.jpeg)
+LOCATION_REFERENCE:  WEST (assets/references/locations/TSUKI_AMDK_KITCHEN_Oeste.png)
+CHARACTER_REFERENCE: Tsuki (assets/references/characters/TSUKI_AMDK_CHAR_TSUKI_MASTER_V001.jpeg)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       Tsuki eye level (low, ~20cm)
 LIGHT SOURCE:        Natural window light + practical kitchen ambient
@@ -115,8 +115,8 @@ No human clothing, no detective costume, no magnifying glass, no anthropomorphic
 ```
 TYPE:                CU (Close Up)
 CLASSIFICATION:      [KEYFRAME]
-LOCATION_REFERENCE:  WEST (TSUKI_AMDK_KITCHEN_Oeste.png)
-CHARACTER_REFERENCE: Tsuki (TSUKI_AMDK_CHAR_TSUKI_MASTER_V001.jpeg)
+LOCATION_REFERENCE:  WEST (assets/references/locations/TSUKI_AMDK_KITCHEN_Oeste.png)
+CHARACTER_REFERENCE: Tsuki (assets/references/characters/TSUKI_AMDK_CHAR_TSUKI_MASTER_V001.jpeg)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       ~15cm from floor
 LIGHT SOURCE:        Natural window side light
@@ -163,8 +163,8 @@ No humor, no anthropomorphic expression, no props associated with human detectiv
 ```
 TYPE:                MS (Medium Shot)
 CLASSIFICATION:      [KEYFRAME]
-LOCATION_REFERENCE:  NORTH (TSUKI_AMDK_KITCHEN_Norte.png — Large iron-frame window)
-CHARACTER_REFERENCE: Simba (TSUKI_AMDK_CHAR_SIMBA_MASTER_V001.jpg)
+LOCATION_REFERENCE:  NORTH (assets/references/locations/TSUKI_AMDK_KITCHEN_Norte.png — Large iron-frame window)
+CHARACTER_REFERENCE: Simba (assets/references/characters/TSUKI_AMDK_CHAR_SIMBA_MASTER_V001.jpg)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       Low, looking upward toward windowsill
 LIGHT SOURCE:        Direct North window daylight
@@ -213,8 +213,8 @@ No anthropomorphism, no detective costume, no exaggerated eyes, no fantasy cat, 
 ```
 TYPE:                MS (Medium Shot) — Vertical Two-Shot
 CLASSIFICATION:      [KEYFRAME]
-LOCATION_REFERENCE:  NORTH (TSUKI_AMDK_KITCHEN_Norte.png)
-CHARACTER_REFERENCE: Tsuki + Simba (TSUKI_AMDK_CHAR_TSUKI_MASTER_V001.jpeg & TSUKI_AMDK_CHAR_SIMBA_MASTER_V001.jpg)
+LOCATION_REFERENCE:  NORTH (assets/references/locations/TSUKI_AMDK_KITCHEN_Norte.png)
+CHARACTER_REFERENCE: Tsuki + Simba (assets/references/characters/TSUKI_AMDK_CHAR_TSUKI_MASTER_V001.jpeg & assets/references/characters/TSUKI_AMDK_CHAR_SIMBA_MASTER_V001.jpg)
 CAMERA STATE:        STATIC_OBSERVATIONAL, low angle
 CAMERA HEIGHT:       Floor level (~15cm)
 LIGHT SOURCE:        North window daylight
@@ -265,8 +265,8 @@ No anthropomorphic poses, no human expressions, no clothing, no props, no comedy
 ```
 TYPE:                ECU (Extreme Close Up)
 CLASSIFICATION:      [KEYFRAME]
-LOCATION_REFERENCE:  NORTH (TSUKI_AMDK_KITCHEN_Norte.png — background softly blurred)
-CHARACTER_REFERENCE: Tsuki (TSUKI_AMDK_CHAR_TSUKI_MASTER_V001.jpeg)
+LOCATION_REFERENCE:  NORTH (assets/references/locations/TSUKI_AMDK_KITCHEN_Norte.png — background softly blurred)
+CHARACTER_REFERENCE: Tsuki (assets/references/characters/TSUKI_AMDK_CHAR_TSUKI_MASTER_V001.jpeg)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       ~20cm from floor
 LIGHT SOURCE:        North window side light
@@ -317,8 +317,8 @@ No cute pet portrait look, no smiling dog, no cartoon, no CGI.
 ```
 TYPE:                CU (Close Up)
 CLASSIFICATION:      [KEYFRAME]
-LOCATION_REFERENCE:  NORTH (TSUKI_AMDK_KITCHEN_Norte.png — background softly blurred)
-CHARACTER_REFERENCE: Simba (TSUKI_AMDK_CHAR_SIMBA_MASTER_V001.jpg)
+LOCATION_REFERENCE:  NORTH (assets/references/locations/TSUKI_AMDK_KITCHEN_Norte.png — background softly blurred)
+CHARACTER_REFERENCE: Simba (assets/references/characters/TSUKI_AMDK_CHAR_SIMBA_MASTER_V001.jpg)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       Eye level with windowsill
 LIGHT SOURCE:        North window daylight
@@ -367,7 +367,7 @@ No anthropomorphism, no fantasy, no stylized cat portrait, no CGI.
 ```
 TYPE:                MLS (Medium Long Shot)
 CLASSIFICATION:      [KEYFRAME]
-LOCATION_REFERENCE:  EAST (TSUKI_AMDK_KITCHEN_Leste.png — Dining table, room depth)
+LOCATION_REFERENCE:  EAST (assets/references/locations/TSUKI_AMDK_KITCHEN_Leste.png — Dining table, room depth)
 CHARACTER_REFERENCE: Tsuki + Simba (foreground); Adult human (background, out of focus)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       Animal eye level (~25cm)
@@ -419,8 +419,8 @@ No prominent human face, no anthropomorphic animals, no exaggerated reaction.
 ```
 TYPE:                INSERT / DETAIL
 CLASSIFICATION:      [KEYFRAME]
-LOCATION_REFERENCE:  WEST (TSUKI_AMDK_KITCHEN_Oeste.png)
-CHARACTER_REFERENCE: None (Object only — TSUKI_AMDK_PROP_BISCUIT_BOWL.jpeg)
+LOCATION_REFERENCE:  WEST (assets/references/locations/TSUKI_AMDK_KITCHEN_Oeste.png)
+CHARACTER_REFERENCE: None (Object only — assets/references/props/TSUKI_AMDK_PROP_BISCUIT_BOWL.jpeg)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       ~10cm from floor
 LIGHT SOURCE:        Reflected window light
@@ -471,7 +471,7 @@ The frame looks like a 1970s procedural investigation still taken in an ordinary
 ```
 TYPE:                WS (Wide Shot)
 CLASSIFICATION:      [KEYFRAME] — candidate END_FRAME for Episode 01
-LOCATION_REFERENCE:  NORTH (TSUKI_AMDK_KITCHEN_Norte.png)
+LOCATION_REFERENCE:  NORTH (assets/references/locations/TSUKI_AMDK_KITCHEN_Norte.png)
 CHARACTER_REFERENCE: Tsuki (foreground) + Simba (background)
 CAMERA STATE:        STATIC_OBSERVATIONAL
 CAMERA HEIGHT:       Floor level (~15cm)
