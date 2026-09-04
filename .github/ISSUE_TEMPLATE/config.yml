@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Production docs
+    url: https://github.com/jointgitkaru/TSUKI_AMDK/tree/main_karu/docs
+    about: Browse the production documentation structure.
