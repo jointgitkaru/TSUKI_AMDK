@@ -28,6 +28,13 @@
 - [`12_ep01_audio_mix_and_cue_sheet.md`](12_ep01_audio_mix_and_cue_sheet.md)
 - [`13_ep01_voice_cast_registry.md`](13_ep01_voice_cast_registry.md)
 - [`14_ep01_editorial_timeline_map.md`](14_ep01_editorial_timeline_map.md)
+- [`19_ep01_locked_stills_manifest.md`](19_ep01_locked_stills_manifest.md)
+- [`20_ep01_motion_preflight.md`](20_ep01_motion_preflight.md)
+- [`22_ep01_motion_batch_01_prompts.md`](22_ep01_motion_batch_01_prompts.md)
+- [`23_ep01_motion_batch_02_prompts.md`](23_ep01_motion_batch_02_prompts.md)
+- [`24_ep01_assembly_blueprint.md`](24_ep01_assembly_blueprint.md)
+- [`25_ep01_motion_batch_03_prompts.md`](25_ep01_motion_batch_03_prompts.md)
+- [`26_ep01_timeline_edit_sheet.md`](26_ep01_timeline_edit_sheet.md)
 
 ### Review passes
 - [`15_ep01_keyframe_pass01_review.md`](15_ep01_keyframe_pass01_review.md)

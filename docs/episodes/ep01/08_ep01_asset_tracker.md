@@ -140,6 +140,6 @@ Episode build: `EP01 Build A`
 - Atualize o CSV irmão (`docs/episodes/ep01/08_ep01_asset_tracker.csv`) durante a produção real.
 - Use este `.md` como visão executiva.
 - Consulte `docs/episodes/ep01/19_ep01_locked_stills_manifest.md` para o set visual travado.
-- Consulte `docs/episodes/ep01/20_ep01_motion_preflight.md` e `docs/episodes/ep01/22_ep01_motion_batch_01_prompts.md` / `docs/episodes/ep01/23_ep01_motion_batch_02_prompts.md` para o motion prep.
-- Consulte `docs/episodes/ep01/24_ep01_assembly_blueprint.md` para o pre-assembly.
+- Consulte `docs/episodes/ep01/20_ep01_motion_preflight.md` e `docs/episodes/ep01/22_ep01_motion_batch_01_prompts.md` / `docs/episodes/ep01/23_ep01_motion_batch_02_prompts.md` / `docs/episodes/ep01/25_ep01_motion_batch_03_prompts.md` para o motion prep.
+- Consulte `docs/episodes/ep01/24_ep01_assembly_blueprint.md` e `docs/episodes/ep01/26_ep01_timeline_edit_sheet.md` para o pre-assembly.
 - Promova qualquer item para `LOCKED` somente depois de passar pelo gate indicado.
